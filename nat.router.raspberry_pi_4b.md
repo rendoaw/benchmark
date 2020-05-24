@@ -4,6 +4,9 @@
 
 * wired end to end
 
+* native ethernet is facing to the server (uplink). USB 3.0 ethernet adapter is facing client. 
+
+
 * connectivity
 
 ```
