@@ -18,7 +18,8 @@ client -- Linksys switch -- Mikrotik RB750Gr3 as switch+router+nat -- server
 * TCP
 
 ```
-VConnecting to host 10.77.1.1, port 5201
+# iperf3 -c 10.77.1.1
+Connecting to host 10.77.1.1, port 5201
 [  4] local 192.168.1.17 port 55668 connected to 10.77.1.1 port 5201
 [ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
 [  4]   0.00-1.00   sec  91.9 MBytes   771 Mbits/sec  176    188 KBytes
